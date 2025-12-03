@@ -23,6 +23,6 @@ py -m pip install ephem
 ## Run Within Your Program
 To run this program within your program:
 
-Step 1: Add start_lunar.php into your project folder, and not the microservice one. Do include the microservice file in your project.
-Step 2: Adjust the file paths in start_lunar.php to your project's.
+Step 1: Add start_lunar.php into your project folder, and not the microservice one. Do include the microservice file in your project. <br>
+Step 2: Adjust the file paths in start_lunar.php to your project's. <br>
 Step 3: Call start_lunar.php to get your moon data, I put an example php file of this call in "index.php".
