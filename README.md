@@ -11,7 +11,7 @@ py server.py
 
 Step 2: while the server is running, open up another terminal and enter this:
 ```bash
-node test.js"
+node test.js
 ```
 
 Step 3: this will confirm that the microservice can run happily on your device
