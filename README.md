@@ -25,4 +25,8 @@ To run this program within your program:
 
 Step 1: Add start_lunar.php into your project folder, and not the microservice one. Do include the microservice file in your project. <br>
 Step 2: Adjust the file paths in start_lunar.php to your project's. <br>
-Step 3: Call start_lunar.php to get your moon data, I put an example php file of this call in "index.php".
+Step 3: Run server.py in the background using a terminal with this command:
+```bash
+py server.py
+```
+Step 4: Call start_lunar.php to get your moon data, I put an example php file of this call in "index.php".
